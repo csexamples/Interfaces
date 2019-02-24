@@ -1,0 +1,10 @@
+/Users/mindaugaslazauskas/pluralsight/c#/CSInterfaces/ExplicitImplementation/bin/Debug/netcoreapp2.1/ExplicitImplementation.deps.json
+/Users/mindaugaslazauskas/pluralsight/c#/CSInterfaces/ExplicitImplementation/bin/Debug/netcoreapp2.1/ExplicitImplementation.runtimeconfig.json
+/Users/mindaugaslazauskas/pluralsight/c#/CSInterfaces/ExplicitImplementation/bin/Debug/netcoreapp2.1/ExplicitImplementation.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/pluralsight/c#/CSInterfaces/ExplicitImplementation/bin/Debug/netcoreapp2.1/ExplicitImplementation.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CSInterfaces/ExplicitImplementation/bin/Debug/netcoreapp2.1/ExplicitImplementation.pdb
+/Users/mindaugaslazauskas/pluralsight/c#/CSInterfaces/ExplicitImplementation/obj/Debug/netcoreapp2.1/ExplicitImplementation.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CSInterfaces/ExplicitImplementation/obj/Debug/netcoreapp2.1/ExplicitImplementation.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CSInterfaces/ExplicitImplementation/obj/Debug/netcoreapp2.1/ExplicitImplementation.AssemblyInfo.cs
+/Users/mindaugaslazauskas/pluralsight/c#/CSInterfaces/ExplicitImplementation/obj/Debug/netcoreapp2.1/ExplicitImplementation.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CSInterfaces/ExplicitImplementation/obj/Debug/netcoreapp2.1/ExplicitImplementation.pdb

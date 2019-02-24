@@ -1,0 +1,10 @@
+/Users/mindaugaslazauskas/pluralsight/c#/CSInterfaces/AbstractClassesAndInterfaces/bin/Debug/netcoreapp2.1/AbstractClassesAndnterfaces.deps.json
+/Users/mindaugaslazauskas/pluralsight/c#/CSInterfaces/AbstractClassesAndInterfaces/bin/Debug/netcoreapp2.1/AbstractClassesAndnterfaces.runtimeconfig.json
+/Users/mindaugaslazauskas/pluralsight/c#/CSInterfaces/AbstractClassesAndInterfaces/bin/Debug/netcoreapp2.1/AbstractClassesAndnterfaces.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/pluralsight/c#/CSInterfaces/AbstractClassesAndInterfaces/bin/Debug/netcoreapp2.1/AbstractClassesAndnterfaces.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CSInterfaces/AbstractClassesAndInterfaces/bin/Debug/netcoreapp2.1/AbstractClassesAndnterfaces.pdb
+/Users/mindaugaslazauskas/pluralsight/c#/CSInterfaces/AbstractClassesAndInterfaces/obj/Debug/netcoreapp2.1/AbstractClassesAndnterfaces.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CSInterfaces/AbstractClassesAndInterfaces/obj/Debug/netcoreapp2.1/AbstractClassesAndnterfaces.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/CSInterfaces/AbstractClassesAndInterfaces/obj/Debug/netcoreapp2.1/AbstractClassesAndnterfaces.AssemblyInfo.cs
+/Users/mindaugaslazauskas/pluralsight/c#/CSInterfaces/AbstractClassesAndInterfaces/obj/Debug/netcoreapp2.1/AbstractClassesAndnterfaces.dll
+/Users/mindaugaslazauskas/pluralsight/c#/CSInterfaces/AbstractClassesAndInterfaces/obj/Debug/netcoreapp2.1/AbstractClassesAndnterfaces.pdb

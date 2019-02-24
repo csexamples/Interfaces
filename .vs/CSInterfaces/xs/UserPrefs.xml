@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{452690C8-A43E-49CE-8CB6-08B6C673F4D7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExplicitImplementation/Program.cs">
+    <Files>
+      <File FileName="ExplicitImplementation/Program.cs" Line="17" Column="45" />
+      <File FileName="ExplicitImplementation/Catalog.cs" Line="23" Column="1" />
+      <File FileName="ExplicitImplementation/ISaveable.cs" Line="10" Column="1" />
+      <File FileName="ExplicitImplementation/IVoidSaveable.cs" Line="7" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AbstractClassesAndnterfaces PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ExplicitImplementation PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
